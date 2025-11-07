@@ -8,6 +8,8 @@ description: "News"
 ---
 
 ---
+📣 11/2025 &nbsp; Presentation at 2025 Örebro Workshop on Macro- and Financial Econometrics, received the **Travel Grant**<br>
+<br>
 💼 09/2025 &nbsp; Started a new position as Postdoctoral Fellow at the **Johns Hopkins University** <br>
 <br>
 ✨ 07/2025 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" has been accepted by the **Journal of Econometrics**<br>
