@@ -88,7 +88,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: CV_1111.pdf
+          url: CV1111.pdf
         - name: Email
           url: mailto:wei.katie.zhang@gmail.com
         - name: Location
