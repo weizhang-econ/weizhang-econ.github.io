@@ -8,6 +8,8 @@ description: "News"
 ---
 
 ---
+📣 12/2025 &nbsp; Presentation at CFE-CMStatistics 2025<br>
+<br>
 📣 11/2025 &nbsp; Presentation at 2025 Örebro Workshop on Macro- and Financial Econometrics, received the **Travel Grant**<br>
 <br>
 💼 09/2025 &nbsp; Started a new position as Postdoctoral Fellow at the **Johns Hopkins University** <br>
