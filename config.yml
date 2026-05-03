@@ -65,8 +65,8 @@ params:
           imageHeight: 200
           imageTitle: Wei Zhang
           buttons:
-            - name: Job Market Paper
-              url: papers/JMP_WeiZhang_Aug25.pdf            
+            #- name: Job Market Paper
+            #  url: papers/JMP_WeiZhang_Aug25.pdf            
             
             - name: Research
               url: papers/
