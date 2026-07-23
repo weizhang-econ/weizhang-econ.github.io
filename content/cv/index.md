@@ -17,7 +17,7 @@ Outside of research, I love painting and playing the piano. I’m also a nature-
 
 You’ll find my CV below.
 
-+ [Download CV](/CV_0502.pdf)
++ [Download CV](/CV_WeiZhang_0721.pdf)
 
 <!--+ [Download Resume](/Resume0629.pdf)-->
 ##### EDUCATION
