@@ -8,11 +8,13 @@ description: "News"
 ---
 
 ---
+📣 10/2026 &nbsp; Presentation at 2026 Conference on Real-Time Data Analysis, Methods, and Applications<br>
+<br>
 📣 05/2026 &nbsp; Presentation at 2026 SBIES NSF/CEME Conference<br>
 <br>
 📣 12/2025 &nbsp; Presentation at CFE-CMStatistics 2025<br>
 <br>
-📣 11/2025 &nbsp; Presentation at 2025 Örebro Workshop on Macro- and Financial Econometrics, received the **Travel Grant**<br>
+📣 11/2025 &nbsp; Presentation at 2025 Örebro Workshop on Macro- and Financial Econometrics <br>
 <br>
 💼 09/2025 &nbsp; Started a new position as Postdoctoral Fellow at the **Johns Hopkins University** <br>
 <br>
@@ -20,7 +22,7 @@ description: "News"
 <br>
 🎓 06/2025 &nbsp; Successfully defended my PhD thesis, **Flexible Bayesian Time-Series Models in a Data-Rich Environment**<br>
 <br>
-📣 11/2024 &nbsp; Presentation at SEA 94th Annual Meeting, received the **Graduate Student Award**<br>
+📣 11/2024 &nbsp; Presentation at SEA 94th Annual Meeting<br>
 <br>
 ✨ 11/2024 &nbsp; "Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic" received an R&R from the **Journal of Econometrics**<br>
 <br>
