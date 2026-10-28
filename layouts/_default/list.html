@@ -33,7 +33,11 @@
 </div>
 {{- end }}
 
-{{- $pages := sort (union .RegularPages .Sections) "Params.weight" }}
+{{- $pages := union .RegularPages .Sections }}
+{{- /* Pinned pages first, then the rest newest to oldest */}}
+{{- $pinned := where $pages "Params.pinned" true }}
+{{- $rest := where $pages "Params.pinned" "!=" true }}
+{{- $pages = $pinned | append $rest.ByDate.Reverse }}
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
